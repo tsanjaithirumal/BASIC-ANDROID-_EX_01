@@ -22,6 +22,13 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
+```
+/*
+Program to Develop an application that uses Font Size using Android Studio .
+Developed by: SANJAI T
+RegisterNumber:  212222040145
+*/
+```
 
 ### MainActivity.java:
 
